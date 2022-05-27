@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+😜 I am Liam! Welcome to visit my page!     
+🎓 I am a student studying __Control Science & Control Engineer__.       
+🚀 Control theory is what I consider as the key to manipulate the world!    
+🤖 I am crazy about robotic technology, including perception, decision, planning, control and so on.    
+🥳 In my spare time, I love reading, playing badminton, swimming and enjoy nature with my friends.    
+
+
 <!--
 **Soil-L/Soil-L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
