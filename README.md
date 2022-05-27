@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-😜 I am __Liam__! Welcome to visit my page!     
+😜 I am __Liam__! Welcome to my page!     
 🎓 I am a student studying __Control Science & Control Engineer__        
 🚀 Control theory is what I consider as __the key to manipulate the world!__     
 🤖 I am crazy about __robotic technology__, including perception, decision, planning, control and so on    
