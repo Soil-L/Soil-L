@@ -4,7 +4,7 @@
 🎓 I am a student studying __Control Science & Control Engineer__        
 🚀 Control theory is what I consider as __the key to manipulate the world!__     
 🤖 I am crazy about __robotic technology__, including perception, decision, planning, control and so on    
-🥳 In my spare time, I love __reading__, __playing badminton__, __swimming__ and __enjoy nature with my friends__      
+🥳 In my spare time, I love __reading__, __playing badminton__, __swimming__ and __enjoying nature with my friends__      
 
 
 <!--
